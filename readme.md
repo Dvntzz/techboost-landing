@@ -21,6 +21,9 @@ Uma landing page moderna e responsiva para promover serviços de tecnologia. Con
 - HTML5
 - [TailwindCSS CDN](https://tailwindcss.com/docs/installation/play-cdn)
 
+🔗 **Veja ao vivo:**  
+👉 [https://techboost-landing.vercel.app](https://techboost-landing.vercel.app)
+
 ## 🛠 Como usar
 
 1. Clone este repositório:
