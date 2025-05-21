@@ -5,7 +5,7 @@ Uma landing page moderna e responsiva para promover serviços de tecnologia. Con
 ## 📸 Preview
 ![preview](./images/preview.PNG)
 ![preview](./images/contato.PNG)
-[preview](./images/formspree.PNG)
+![preview](./images/formspree.PNG)
 
 ## 🚀 Funcionalidades
 
