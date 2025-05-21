@@ -3,8 +3,9 @@
 Uma landing page moderna e responsiva para promover serviços de tecnologia. Construída com **HTML5** e **TailwindCSS**, otimizada para mobile e com formulário funcional via [Formspree](https://formspree.io).
 
 ## 📸 Preview
-
-![preview](./preview.png)
+![preview](./images/preview.png)
+![preview](./images/contato.png)
+![preview](./images/formspree.png)
 
 ## 🚀 Funcionalidades
 
